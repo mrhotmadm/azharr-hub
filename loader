@@ -1,1 +1,1 @@
-https://azharrscripts.hexerous.repl.co/scripts/azharr-hub/loader.lua
+loadstring(game:HttpGet('https://azharrscripts.hexerous.repl.co/scripts/azharr-hub/loader.lua'))()
